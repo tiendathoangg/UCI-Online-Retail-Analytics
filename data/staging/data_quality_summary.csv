@@ -1,0 +1,15 @@
+metric,value
+Total rows,541909
+Total columns,8
+Exact duplicate rows,5268
+Missing customer IDs,135080
+Missing descriptions,1454
+Negative quantities,10624
+Zero quantities,0
+Negative unit prices,2
+Zero unit prices,2515
+Cancelled transaction rows,9288
+Unique invoices,25900
+Unique products,4070
+Unique customers,4372
+Unique countries,38
