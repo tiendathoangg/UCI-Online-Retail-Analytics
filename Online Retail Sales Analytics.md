@@ -27,3 +27,6 @@ The biggest lesson from this project was that **getting an answer from data is o
 The current pipeline provides a useful foundation for sales analysis, but there is still much more to explore. Missing customer IDs limit customer-level analysis, cancellation data does not explain *why* orders were cancelled, and the dataset covers only around one year.
 
 These limitations also create opportunities for the next stage of the project, particularly **customer behaviour, RFM segmentation, product relationships, and deeper cancellation analysis**.
+
+## Dataset Credit
+https://archive.ics.uci.edu/dataset/352/online+retail
